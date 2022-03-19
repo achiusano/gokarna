@@ -39,7 +39,7 @@ pygmentsStyle = "monokai"
 
   [[menu.main]]
     name = "Posts"
-    url = "/posts/"
+    url = "/cv/"
     weight = 2
 
   [[menu.main]]
